@@ -4,13 +4,13 @@ unix，C语言，TCP-IP 可以看作三胞胎，他们结合在一起相互诞�
 ## 第二章 系统分区
 Linux与Windows一样，它的主分区和拓展分区加起来不能超过四个，而且拓展分区最多一个且不能放入数据文件以及它不能格式化，拓展分区里放的逻辑分区可以放数据和格式化。
 Linux 硬件全为文件 这一点与Windows不一样，下面介绍一些Linux的主要硬件文件名已经存放路径。
-*IDE硬盘 /dev/hd[a-d]
-*SCSI/SATA/USB硬盘 /dev/sd[a-p]
-*光驱 /dev/cdrom或/dev/sr0
-*软盘 /dev/fd[0-1]
-*打印机（25针） /dev/lp[0-2]
-*打印机（USB） /dev/usb/lp[0-15]
-*鼠标 /dev/mouse
+* IDE硬盘 /dev/hd[a-d]
+* SCSI/SATA/USB硬盘 /dev/sd[a-p]
+* 光驱 /dev/cdrom或/dev/sr0
+* 软盘 /dev/fd[0-1]
+* 打印机（25针） /dev/lp[0-2]
+* 打印机（USB） /dev/usb/lp[0-15]
+* 鼠标 /dev/mouse
 ## 第三章 Linux安装与配置
 ## 第四章 Linux常用命令
  * 第一节 文件处理命令
