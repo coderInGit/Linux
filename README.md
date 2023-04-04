@@ -12,6 +12,8 @@ Linux 硬件全为文件 这一点与Windows不一样，下面介绍一些Linux�
 * 打印机（USB） /dev/usb/lp[0-15]
 * 鼠标 /dev/mouse
 ## 第三章 Linux安装与配置
+在Linux远程登录管理配置IP时，需要的一些简单命令：
+
 ## 第四章 Linux常用命令
  * 第一节 文件处理命令
 
