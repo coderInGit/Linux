@@ -22,9 +22,9 @@ Linux 硬件全为文件 这一点与Windows不一样，下面介绍一些Linux�
 ```
 注意：这些配置都是临时配置，在重启之后IP会丢，永久修改需要在配置文件中修改
 VmNAT8为VMware虚拟中虚拟网卡 可以自行查询IP
+具体操作看以下视频：
 链接: [VMware环境配置](https://www.bilibili.com/video/BV1mW411i7Qf?p=9 "VMware环境配置")
 
-具体操作看以下视频：
 ## 第四章 Linux常用命令
  * 第一节 文件处理命令
 
