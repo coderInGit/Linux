@@ -13,7 +13,14 @@ Linux 硬件全为文件 这一点与Windows不一样，下面介绍一些Linux�
 * 鼠标 /dev/mouse
 ## 第三章 Linux安装与配置
 在Linux远程登录管理配置IP时，需要的一些简单命令：
+```
+  ifconfig  查询当前网卡信息
+  ifconfig eth0  配置网卡 
+  ifconfig eth0 后+ VmNAT8的网络IP   
+  df    查看系统分区
+  ls /bin/   里面存放的为Linux命令文件  
 
+```
 ## 第四章 Linux常用命令
  * 第一节 文件处理命令
 
